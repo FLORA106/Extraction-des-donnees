@@ -6,5 +6,5 @@ Le lien du site est le suivant : https://www.decitre.fr/livres/loisirs-nature-vo
 
 Ce projet a été réalisé sous R. Pour extraire les données de la page HTML, nous utilisons le langage de requêtes XPATH qui permet de sélectionner les noeuds d’un document (XML).Ensuite, nous avons nettoyer les données obtenues à partir du langage de requêtes XPATH à l’aide des expressions régulières REGEX.
 
-Dans ce répertoire, vous trouverez le rapport qui contient le code R à l'intérieur.
+Dans ce répertoire, vous trouverez le rapport ainsi que le code R.
 
